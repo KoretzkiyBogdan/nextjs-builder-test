@@ -1,0 +1,26 @@
+.block {
+  background: #cbccf9;
+  width: 650px;
+  border-radius: 10px;
+}
+
+.container {
+  width: 550px;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+
+.email {
+  background: #00628a;
+  color: #fff;
+  padding: 0px 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.text {
+  background: #fff;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  padding: 10px;
+}
